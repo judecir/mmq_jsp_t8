@@ -1,0 +1,19 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_MIP_Limits_Solutions                    1
+Tried aggregator 1 time.
+MIP Presolve eliminated 5752 rows and 0 columns.
+MIP Presolve modified 9651 coefficients.
+Reduced MIP has 582818 rows, 189676 columns, and 2117836 nonzeros.
+Reduced MIP has 6525 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.58 sec. (823.38 ticks)
+Found incumbent of value 18431.000000 after 1.09 sec. (1443.22 ticks)
+
+Root node processing (before b&c):
+  Real time             =    1.10 sec. (1452.47 ticks)
+Parallel b&c, 8 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    1.10 sec. (1452.47 ticks)

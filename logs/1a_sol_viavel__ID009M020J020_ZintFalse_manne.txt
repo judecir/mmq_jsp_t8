@@ -1,0 +1,26 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+CPXPARAM_MIP_Limits_Solutions                    1
+Parallel mode: deterministic, using up to 8 threads for concurrent optimization.
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (3.13 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =          1212.000000
+Perturbation started.
+Iteration:   101   Dual objective     =          1212.000000
+Iteration:   237   Dual objective     =          1212.022965
+Iteration:   387   Dual objective     =          1212.058163
+Iteration:   609   Dual objective     =          1212.058168
+Iteration:   834   Dual objective     =          1212.058171
+Iteration:  1066   Dual objective     =          1212.058174
+Iteration:  1295   Dual objective     =          1212.058176
+Iteration:  1516   Dual objective     =          1212.058178
+Iteration:  1746   Dual objective     =          1212.058179
+Iteration:  1974   Dual objective     =          1212.058180
+Iteration:  2204   Dual objective     =          1212.058181
+Removing perturbation.
+
+Dual simplex solved model.
+

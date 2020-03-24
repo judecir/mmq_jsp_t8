@@ -1,0 +1,1616 @@
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M003J004_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 69.0
+Detalhes status  = solution limit exceeded
+time    = 0.00131297 s.
+problem = MILP
+gap     = 66.6667%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M003J004_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 56.0
+Detalhes status  = solution limit exceeded
+time    = 0.00296617 s.
+problem = MILP
+gap     = 58.9286%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M003J004_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.000367165 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M003J004_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 24.4926
+Detalhes status  = optimal
+time    = 0.00090003 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M003J005_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 69.0
+Detalhes status  = solution limit exceeded
+time    = 0.00170207 s.
+problem = MILP
+gap     = 66.6667%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M003J005_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 70.0
+Detalhes status  = solution limit exceeded
+time    = 0.00286198 s.
+problem = MILP
+gap     = 67.1429%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M003J005_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.000380039 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M003J005_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 30.0151
+Detalhes status  = optimal
+time    = 0.00259209 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9635.0
+Detalhes status  = solution limit exceeded
+time    = 0.016871 s.
+problem = MILP
+gap     = 90.0052%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9543.0
+Detalhes status  = solution limit exceeded
+time    = 0.129213 s.
+problem = MILP
+gap     = 89.9088%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.0189681 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1143.4834
+Detalhes status  = optimal
+time    = 8.69465 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9107.0
+Detalhes status  = solution limit exceeded
+time    = 0.015475 s.
+problem = MILP
+gap     = 89.6563%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9519.0
+Detalhes status  = solution limit exceeded
+time    = 0.117039 s.
+problem = MILP
+gap     = 90.104%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 942.0
+Detalhes status  = optimal
+time    = 0.0178261 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1118.9907
+Detalhes status  = optimal
+time    = 9.60236 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8571.0
+Detalhes status  = solution limit exceeded
+time    = 0.015224 s.
+problem = MILP
+gap     = 89.2545%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9780.0
+Detalhes status  = solution limit exceeded
+time    = 0.117338 s.
+problem = MILP
+gap     = 90.5828%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 921.0
+Detalhes status  = optimal
+time    = 0.0210381 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1105.526
+Detalhes status  = optimal
+time    = 10.5157 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8245.0
+Detalhes status  = solution limit exceeded
+time    = 0.0154829 s.
+problem = MILP
+gap     = 88.9509%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8630.0
+Detalhes status  = solution limit exceeded
+time    = 0.116184 s.
+problem = MILP
+gap     = 89.4438%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 911.0
+Detalhes status  = optimal
+time    = 0.018492 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1071.0055
+Detalhes status  = optimal
+time    = 10.531 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8380.0
+Detalhes status  = solution limit exceeded
+time    = 0.015599 s.
+problem = MILP
+gap     = 88.7828%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9350.0
+Detalhes status  = solution limit exceeded
+time    = 0.115143 s.
+problem = MILP
+gap     = 89.9465%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 940.0
+Detalhes status  = optimal
+time    = 0.018708 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1150.5056
+Detalhes status  = optimal
+time    = 5.8719 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9521.0
+Detalhes status  = solution limit exceeded
+time    = 0.01649 s.
+problem = MILP
+gap     = 91.0829%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9494.0
+Detalhes status  = solution limit exceeded
+time    = 0.117192 s.
+problem = MILP
+gap     = 91.0575%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 849.0
+Detalhes status  = optimal
+time    = 0.020633 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1105.4359
+Detalhes status  = optimal
+time    = 13.3681 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9526.0
+Detalhes status  = solution limit exceeded
+time    = 0.0155311 s.
+problem = MILP
+gap     = 90.1848%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8957.0
+Detalhes status  = solution limit exceeded
+time    = 0.115963 s.
+problem = MILP
+gap     = 89.5612%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 935.0
+Detalhes status  = optimal
+time    = 0.021013 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1176.096
+Detalhes status  = optimal
+time    = 14.5369 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9126.0
+Detalhes status  = solution limit exceeded
+time    = 0.0155671 s.
+problem = MILP
+gap     = 89.4477%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8870.0
+Detalhes status  = solution limit exceeded
+time    = 0.111697 s.
+problem = MILP
+gap     = 89.1432%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.017086 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1164.0454
+Detalhes status  = optimal
+time    = 6.18013 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9017.0
+Detalhes status  = solution limit exceeded
+time    = 0.0147948 s.
+problem = MILP
+gap     = 89.1095%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 10102.0
+Detalhes status  = solution limit exceeded
+time    = 0.112747 s.
+problem = MILP
+gap     = 90.2792%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 982.0
+Detalhes status  = optimal
+time    = 0.0210321 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1169.1992
+Detalhes status  = optimal
+time    = 5.84595 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M015J015_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 9176.0
+Detalhes status  = solution limit exceeded
+time    = 0.0160339 s.
+problem = MILP
+gap     = 90.2354%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M015J015_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 8943.0
+Detalhes status  = solution limit exceeded
+time    = 0.119454 s.
+problem = MILP
+gap     = 89.981%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M015J015_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 896.0
+Detalhes status  = optimal
+time    = 0.0209041 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M015J015_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1128.8752
+Detalhes status  = optimal
+time    = 7.14607 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 10938.0
+Detalhes status  = solution limit exceeded
+time    = 0.026262 s.
+problem = MILP
+gap     = 91.3238%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11121.0
+Detalhes status  = solution limit exceeded
+time    = 0.306324 s.
+problem = MILP
+gap     = 91.4666%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 949.0
+Detalhes status  = optimal
+time    = 0.0375161 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1091.8284
+Detalhes status  = optimal
+time    = 265.155 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12702.0
+Detalhes status  = solution limit exceeded
+time    = 0.0257499 s.
+problem = MILP
+gap     = 92.0328%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12872.0
+Detalhes status  = solution limit exceeded
+time    = 0.293602 s.
+problem = MILP
+gap     = 92.138%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1012.0
+Detalhes status  = optimal
+time    = 0.0387979 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1201.7201
+Detalhes status  = optimal
+time    = 169.582 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11401.0
+Detalhes status  = solution limit exceeded
+time    = 0.0265141 s.
+problem = MILP
+gap     = 91.9393%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11600.0
+Detalhes status  = solution limit exceeded
+time    = 0.286584 s.
+problem = MILP
+gap     = 92.0776%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 919.0
+Detalhes status  = optimal
+time    = 0.0391679 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1146.9559
+Detalhes status  = optimal
+time    = 56.2179 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11755.0
+Detalhes status  = solution limit exceeded
+time    = 0.0270002 s.
+problem = MILP
+gap     = 91.5781%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11735.0
+Detalhes status  = solution limit exceeded
+time    = 0.308773 s.
+problem = MILP
+gap     = 91.5637%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.0379722 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1106.1967
+Detalhes status  = optimal
+time    = 168.423 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11177.0
+Detalhes status  = solution limit exceeded
+time    = 0.0259659 s.
+problem = MILP
+gap     = 92.1267%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11372.0
+Detalhes status  = solution limit exceeded
+time    = 0.304209 s.
+problem = MILP
+gap     = 92.2617%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 880.0
+Detalhes status  = optimal
+time    = 0.034611 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1162.0038
+Detalhes status  = optimal
+time    = 73.1619 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12309.0
+Detalhes status  = solution limit exceeded
+time    = 0.0258322 s.
+problem = MILP
+gap     = 92.4283%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12777.0
+Detalhes status  = solution limit exceeded
+time    = 0.293611 s.
+problem = MILP
+gap     = 92.7056%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 932.0
+Detalhes status  = optimal
+time    = 0.03913 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1256.577
+Detalhes status  = optimal
+time    = 68.635 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12784.0
+Detalhes status  = solution limit exceeded
+time    = 0.0255539 s.
+problem = MILP
+gap     = 92.342%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12242.0
+Detalhes status  = solution limit exceeded
+time    = 0.300149 s.
+problem = MILP
+gap     = 92.0029%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 979.0
+Detalhes status  = optimal
+time    = 0.0350552 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1268.9312
+Detalhes status  = optimal
+time    = 73.172 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12250.0
+Detalhes status  = solution limit exceeded
+time    = 0.026062 s.
+problem = MILP
+gap     = 92.6531%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12220.0
+Detalhes status  = solution limit exceeded
+time    = 0.299928 s.
+problem = MILP
+gap     = 92.635%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 900.0
+Detalhes status  = optimal
+time    = 0.0399611 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1161.7915
+Detalhes status  = optimal
+time    = 165.336 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11990.0
+Detalhes status  = solution limit exceeded
+time    = 0.0265169 s.
+problem = MILP
+gap     = 92.3269%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11976.0
+Detalhes status  = solution limit exceeded
+time    = 0.282537 s.
+problem = MILP
+gap     = 92.318%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 920.0
+Detalhes status  = optimal
+time    = 0.0387862 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1146.4776
+Detalhes status  = optimal
+time    = 180.417 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M015J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 12785.0
+Detalhes status  = solution limit exceeded
+time    = 0.0262802 s.
+problem = MILP
+gap     = 92.7415%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M015J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 11989.0
+Detalhes status  = solution limit exceeded
+time    = 0.294494 s.
+problem = MILP
+gap     = 92.2596%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M015J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 928.0
+Detalhes status  = optimal
+time    = 0.0352871 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M015J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1148.8001
+Detalhes status  = optimal
+time    = 85.8325 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 15387.0
+Detalhes status  = solution limit exceeded
+time    = 0.03596 s.
+problem = MILP
+gap     = 92.0907%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16108.0
+Detalhes status  = solution limit exceeded
+time    = 0.404391 s.
+problem = MILP
+gap     = 92.4447%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1217.0
+Detalhes status  = optimal
+time    = 0.0540349 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1535.9754
+Detalhes status  = optimal
+time    = 88.9788 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16801.0
+Detalhes status  = solution limit exceeded
+time    = 0.036025 s.
+problem = MILP
+gap     = 92.7207%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16970.0
+Detalhes status  = solution limit exceeded
+time    = 0.408113 s.
+problem = MILP
+gap     = 92.7932%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1223.0
+Detalhes status  = optimal
+time    = 0.064822 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1472.0657
+Detalhes status  = optimal
+time    = 158.912 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16329.0
+Detalhes status  = solution limit exceeded
+time    = 0.0354311 s.
+problem = MILP
+gap     = 92.8716%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16483.0
+Detalhes status  = solution limit exceeded
+time    = 0.401698 s.
+problem = MILP
+gap     = 92.9382%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1164.0
+Detalhes status  = optimal
+time    = 0.0610669 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1494.7418
+Detalhes status  = optimal
+time    = 335.239 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16397.0
+Detalhes status  = solution limit exceeded
+time    = 0.035639 s.
+problem = MILP
+gap     = 92.9804%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 15509.0
+Detalhes status  = solution limit exceeded
+time    = 0.401755 s.
+problem = MILP
+gap     = 92.5785%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1151.0
+Detalhes status  = optimal
+time    = 0.05896 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID003M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1463.7706
+Detalhes status  = optimal
+time    = 293.488 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 14010.0
+Detalhes status  = solution limit exceeded
+time    = 0.036392 s.
+problem = MILP
+gap     = 91.6488%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 15405.0
+Detalhes status  = solution limit exceeded
+time    = 0.39763 s.
+problem = MILP
+gap     = 92.4051%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1170.0
+Detalhes status  = optimal
+time    = 0.06234 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID004M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1475.8603
+Detalhes status  = optimal
+time    = 67.875 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16161.0
+Detalhes status  = solution limit exceeded
+time    = 0.0357041 s.
+problem = MILP
+gap     = 92.5314%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16975.0
+Detalhes status  = solution limit exceeded
+time    = 0.400936 s.
+problem = MILP
+gap     = 92.8895%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1207.0
+Detalhes status  = optimal
+time    = 0.0643148 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID005M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1549.1416
+Detalhes status  = optimal
+time    = 117.988 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 17369.0
+Detalhes status  = solution limit exceeded
+time    = 0.0368049 s.
+problem = MILP
+gap     = 92.5672%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 17682.0
+Detalhes status  = solution limit exceeded
+time    = 0.386666 s.
+problem = MILP
+gap     = 92.6988%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1291.0
+Detalhes status  = optimal
+time    = 0.0581021 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID006M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1566.6046
+Detalhes status  = optimal
+time    = 67.9323 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16328.0
+Detalhes status  = solution limit exceeded
+time    = 0.0365992 s.
+problem = MILP
+gap     = 92.522%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16018.0
+Detalhes status  = solution limit exceeded
+time    = 0.398991 s.
+problem = MILP
+gap     = 92.3773%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1221.0
+Detalhes status  = optimal
+time    = 0.0603409 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID007M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1483.0338
+Detalhes status  = optimal
+time    = 53.4267 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 17556.0
+Detalhes status  = solution limit exceeded
+time    = 0.0363231 s.
+problem = MILP
+gap     = 93.0109%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 17293.0
+Detalhes status  = solution limit exceeded
+time    = 0.405314 s.
+problem = MILP
+gap     = 92.9046%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1227.0
+Detalhes status  = optimal
+time    = 0.0608149 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID008M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1545.6051
+Detalhes status  = optimal
+time    = 113.155 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M020J020_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 15626.0
+Detalhes status  = solution limit exceeded
+time    = 0.035033 s.
+problem = MILP
+gap     = 92.2437%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M020J020_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 16443.0
+Detalhes status  = solution limit exceeded
+time    = 0.401472 s.
+problem = MILP
+gap     = 92.6291%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M020J020_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1212.0
+Detalhes status  = optimal
+time    = 0.0596068 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID009M020J020_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1536.6892
+Detalhes status  = optimal
+time    = 65.6318 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J030_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 18133.0
+Detalhes status  = solution limit exceeded
+time    = 0.062979 s.
+problem = MILP
+gap     = 94.5403%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J030_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 17791.0
+Detalhes status  = solution limit exceeded
+time    = 1.1605 s.
+problem = MILP
+gap     = 94.4354%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J030_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.115365 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID000M015J030_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1385.9087
+Detalhes status  = optimal
+time    = 2830.54 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J030_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 18104.0
+Detalhes status  = solution limit exceeded
+time    = 0.0628431 s.
+problem = MILP
+gap     = 94.631%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J030_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 18907.0
+Detalhes status  = solution limit exceeded
+time    = 1.09083 s.
+problem = MILP
+gap     = 94.859%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J030_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 972.0
+Detalhes status  = optimal
+time    = 0.119903 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID001M015J030_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1445.3679
+Detalhes status  = optimal
+time    = 1313.58 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J030_ZintTrue_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 19076.0
+Detalhes status  = solution limit exceeded
+time    = 0.063673 s.
+problem = MILP
+gap     = 94.4642%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J030_ZintTrue_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.FEASIBLE_SOLUTION
+Cmax= 18431.0
+Detalhes status  = solution limit exceeded
+time    = 1.09689 s.
+problem = MILP
+gap     = 94.2705%
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J030_ZintFalse_manne criado!
+Resolvendo...
+Modelo resolvido!
+manne : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1056.0
+Detalhes status  = optimal
+time    = 0.118377 s.
+problem = LP
+
+Criando modelo: 
+Modelo 1a_sol_viavel__ID002M015J030_ZintFalse_minla_fav criado!
+Resolvendo...
+Modelo resolvido!
+minla_fav : 
+JobSolveStatus.OPTIMAL_SOLUTION
+Cmax= 1512.5608
+Detalhes status  = optimal
+time    = 2139.27 s.
+problem = LP
+
+ >>>>>>>>>> Resultados gerais: <<<<<<<<<<<<
+ fl_funcao_objetivo         54.285714
+fl_best_bound               0.000000
+fl_mip_relative_gap        54.285714
+rel_fl_funcao_objetivo    100.000000
+dtype: float64
